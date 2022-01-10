@@ -1,0 +1,16 @@
+
+* {
+    text-align: center;    
+    padding: 10px;
+}
+
+h1{
+    margin-top: 3%;
+    color: rebeccapurple ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(175, 49, 175);
+}
